@@ -1,4 +1,4 @@
-# Pokédex ⚡️
+no# Pokédex ⚡️
 
 Proyecto creado con React + Vite, consumiendo la [PokeAPI](https://pokeapi.co/) para mostrar información de Pokémon, sin backend.
 
@@ -20,7 +20,7 @@ Proyecto creado con React + Vite, consumiendo la [PokeAPI](https://pokeapi.co/) 
    
 2. Instala las dependencias: npm install
   
-3. jecuta el proyecto: npm run dev
+3. ejecuta el proyecto: npm run dev
    
 4. Abre en el navegador: http://localhost:5173
 
