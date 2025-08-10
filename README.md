@@ -1,4 +1,4 @@
-# Pokédex ⚡️
+# Pokedex ⚡️
 
 Proyecto creado con React + Vite, consumiendo la [PokeAPI](https://pokeapi.co/) para mostrar información de Pokémon, sin backend.
 
