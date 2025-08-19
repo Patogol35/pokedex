@@ -24,4 +24,10 @@ Proyecto creado con React + Vite, consumiendo la [PokeAPI](https://pokeapi.co/) 
    
 4. Abre en el navegador: http://localhost:5173
 
-## Desarrollado por Jorge Patricio Santamaría Cherrez ✨
+---
+
+✨ Autor
+
+👨‍💻 Jorge Patricio Santamaría Cherrez
+
+Máster en Ingeniería de Software y Sistemas Informáticos
