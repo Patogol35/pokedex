@@ -33,7 +33,7 @@ git clone https://github.com/Patogol35/pokedex
   
 npm install
   
-3. ejecuta el proyecto:
+3. Ejecuta el proyecto:
   
 npm run dev
    
