@@ -23,7 +23,7 @@ Proyecto creado con React + Vite, consumiendo la [PokeAPI](https://pokeapi.co/) 
 
 ---
 
-Cómo instalar:
+📦 Instalación y ejecución
 
 1. Clona el repositorio:
 
