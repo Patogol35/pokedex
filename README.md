@@ -28,16 +28,20 @@ Cómo instalar:
 1. Clona el repositorio:
 
 git clone https://github.com/Patogol35/pokedex
+
+2. Ingresa a la carpeta del proyecto:
+
+cd pokedex
    
-2. Instala las dependencias:
+3. Instala las dependencias:
   
 npm install
   
-3. Ejecuta el proyecto:
+4. Ejecuta el proyecto:
   
 npm run dev
    
-4. Abre en el navegador:
+5. Abre en el navegador:
   
 http://localhost:5173
 
