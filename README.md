@@ -2,9 +2,9 @@ Pokédex ⚡️
 
 Proyecto creado con React + Vite, consumiendo la [PokeAPI](https://pokeapi.co/) para mostrar información de Pokémon, sin backend.
 
----
+--- 
 
-Funcionalidades
+✨ Funcionalidades
 
 - Listado de Pokémon paginado (primera generación)  
 - Búsqueda por nombre  
