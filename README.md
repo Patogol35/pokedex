@@ -13,7 +13,7 @@ Funcionalidades
 
   ---
 
-Tecnologías utilizadas
+⚙️ Tecnologías utilizadas
 
 - React  
 - React Router  
