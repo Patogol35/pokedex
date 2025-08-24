@@ -45,10 +45,11 @@ npm run dev
   
 http://localhost:5173
 
----
+--- 
 
-✨ Autor
+👨‍💻 Autor
 
-👨‍💻 Jorge Patricio Santamaría Cherrez
-
+Jorge Patricio Santamaría Cherrez
 Máster en Ingeniería de Software y Sistemas Informáticos
+
+
