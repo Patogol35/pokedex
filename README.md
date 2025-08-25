@@ -4,6 +4,10 @@ Proyecto creado con React + Vite, consumiendo la [PokeAPI](https://pokeapi.co/) 
 
 --- 
 
+Ver la aplicación desplegada en Vercel:
+
+---
+
 ✨ Funcionalidades
 
 - Listado de Pokémon paginado (primera generación)  
